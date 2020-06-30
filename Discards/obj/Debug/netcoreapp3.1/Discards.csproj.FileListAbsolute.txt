@@ -1,0 +1,13 @@
+C:\Users\pbrodz\source\repos\Discards\Discards\bin\Debug\netcoreapp3.1\Discards.exe
+C:\Users\pbrodz\source\repos\Discards\Discards\bin\Debug\netcoreapp3.1\Discards.deps.json
+C:\Users\pbrodz\source\repos\Discards\Discards\bin\Debug\netcoreapp3.1\Discards.runtimeconfig.json
+C:\Users\pbrodz\source\repos\Discards\Discards\bin\Debug\netcoreapp3.1\Discards.runtimeconfig.dev.json
+C:\Users\pbrodz\source\repos\Discards\Discards\bin\Debug\netcoreapp3.1\Discards.dll
+C:\Users\pbrodz\source\repos\Discards\Discards\bin\Debug\netcoreapp3.1\Discards.pdb
+C:\Users\pbrodz\source\repos\Discards\Discards\obj\Debug\netcoreapp3.1\Discards.csprojAssemblyReference.cache
+C:\Users\pbrodz\source\repos\Discards\Discards\obj\Debug\netcoreapp3.1\Discards.AssemblyInfoInputs.cache
+C:\Users\pbrodz\source\repos\Discards\Discards\obj\Debug\netcoreapp3.1\Discards.AssemblyInfo.cs
+C:\Users\pbrodz\source\repos\Discards\Discards\obj\Debug\netcoreapp3.1\Discards.csproj.CoreCompileInputs.cache
+C:\Users\pbrodz\source\repos\Discards\Discards\obj\Debug\netcoreapp3.1\Discards.dll
+C:\Users\pbrodz\source\repos\Discards\Discards\obj\Debug\netcoreapp3.1\Discards.pdb
+C:\Users\pbrodz\source\repos\Discards\Discards\obj\Debug\netcoreapp3.1\Discards.genruntimeconfig.cache
